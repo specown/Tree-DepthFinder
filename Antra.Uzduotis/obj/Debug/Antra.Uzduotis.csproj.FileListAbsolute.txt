@@ -1,0 +1,7 @@
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\Antra.Uzduotis\bin\Debug\Antra.Uzduotis.exe.config
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\Antra.Uzduotis\bin\Debug\Antra.Uzduotis.exe
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\Antra.Uzduotis\bin\Debug\Antra.Uzduotis.pdb
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\Antra.Uzduotis\obj\Debug\Antra.Uzduotis.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\Antra.Uzduotis\obj\Debug\Antra.Uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\Antra.Uzduotis\obj\Debug\Antra.Uzduotis.exe
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\Antra.Uzduotis\obj\Debug\Antra.Uzduotis.pdb

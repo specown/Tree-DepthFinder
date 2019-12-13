@@ -1,0 +1,17 @@
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\bin\Debug\Antra.Uzduotis.exe
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\bin\Debug\Antra.Uzduotis.pdb
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\bin\Debug\Antra.Uzduotis.exe.config
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Lukas\Desktop\ALNA\2\Antra.Uzduotis\UnitTests\obj\Debug\UnitTests.pdb
